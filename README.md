@@ -14,5 +14,5 @@ Steps:
 3. Run SQL scripts in sequence.
 4. Run backend file: spring-boot-library/src/main/java/com/luv2code/springbootlibrary/SpringBootLibraryApplication.java
 5. Run command "npm start" at react-library.
-6. Normal user: testuser@email.com Password:test1234!
-7. Admin user: admin@email.com Password:jz2166603
+6. Normal user: testuser@email.com Password: test1234!
+7. Admin user: admin@email.com Password: jz2166603
