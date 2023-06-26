@@ -1,12 +1,12 @@
 # Online-Library-app
 React + Spring Boot Online library project
 
-•	Established a full stack online library application for user to borrow books.
-•	Implemented RESTful APIs enabling full CRUD using Spring Boot, with data based on MySQL.
-•	Created front-end user interface using TypeScript and React.js, integrating Bootstrap to enhance webpage design and user experience.
-•	Implemented user authentication and authorization with Okta, only allowing registered users to check out books and leave reviews.
-•	Constructed a robust payment gateway using Stripe to facilitate secure online transactions.
-•	Conducted testing using JUnit, Mockito, and MockMvc to ensure the application’s reliability and robustness.
+1. Established a full stack online library application for user to borrow books.
+2. Implemented RESTful APIs enabling full CRUD using Spring Boot, with data based on MySQL.
+3. Created front-end user interface using TypeScript and React.js, integrating Bootstrap to enhance webpage design and user experience.
+4. Implemented user authentication and authorization with Okta, only allowing registered users to check out books and leave reviews.
+5. Constructed a robust payment gateway using Stripe to facilitate secure online transactions.
+6. Conducted testing using JUnit, Mockito, and MockMvc to ensure the application’s reliability and robustness.
 
 Steps:
 1. At react-library folder, run "npm install"
