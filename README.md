@@ -16,3 +16,6 @@ Steps:
 5. Run command "npm start" at react-library.
 6. Normal user: testuser@email.com Password: test1234!
 7. Admin user: admin@email.com Password: jz2166603
+
+http://ec2-44-202-239-32.compute-1.amazonaws.com/home
+It still has problems with deployed on HTTPS, now can only be accessed by http, I will fix it soonly.
